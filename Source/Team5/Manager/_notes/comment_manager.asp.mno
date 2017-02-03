@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsComment" value="name:CommentID;datatype:int,name:CommentDetail;datatype:varchar,name:GameID;datatype:int,name:MemberID;datatype:int,name:CommentStatus;datatype:bit,name:CommentTime;datatype:smalldatetime,name:MemberID;datatype:int,name:MemberName;datatype:varchar,name:GameID;datatype:int,name:GameTitle;datatype:varchar" />
+</info>

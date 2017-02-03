@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPass" value="name:AdminID;datatype:int,name:Username;datatype:varchar,name:Password;datatype:varchar" />
+</info>

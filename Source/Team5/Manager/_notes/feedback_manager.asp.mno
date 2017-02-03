@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsFeedback" value="name:FeedbackID;datatype:int,name:FeedbackDetail;datatype:varchar,name:MemberID;datatype:int,name:FeedbackTitle;datatype:varchar,name:MemberName;datatype:varchar" />
+</info>

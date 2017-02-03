@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsNews" value="name:NewsID;datatype:int,name:NewsTitle;datatype:varchar,name:NewsDetail;datatype:varchar,name:NewsDate;datatype:smalldatetime,name:NewsImage;datatype:varchar,name:NewsDescription;datatype:varchar" />
+</info>

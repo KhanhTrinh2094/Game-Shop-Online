@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsCategory" value="name:CategoryID;datatype:int,name:CategoryName;datatype:varchar,name:CategoryDescription;datatype:varchar,name:Status;datatype:bit" />
+	<infoitem key="UD_rsGame" value="name:GameID;datatype:int,name:GameTitle;datatype:varchar,name:GameDetail;datatype:varchar,name:GamePrice;datatype:smallmoney,name:GameImage;datatype:varchar,name:CategoryID;datatype:int,name:Status;datatype:bit" />
+	<infoitem key="UD_rsComment" value="name:CommentID;datatype:int,name:CommentDetail;datatype:varchar,name:GameID;datatype:int,name:MemberID;datatype:int,name:CommentStatus;datatype:bit,name:CommentTime;datatype:smalldatetime,name:MemberName;datatype:varchar" />
+	<infoitem key="UD_rsRandom" value="name:GameID;datatype:int,name:GameTitle;datatype:varchar,name:GameDetail;datatype:varchar,name:GamePrice;datatype:smallmoney,name:GameImage;datatype:varchar,name:CategoryID;datatype:int,name:Status;datatype:bit" />
+</info>

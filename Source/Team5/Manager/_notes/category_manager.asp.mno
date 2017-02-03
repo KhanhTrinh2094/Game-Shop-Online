@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsLis" value="name:CategoryID;datatype:int,name:CategoryName;datatype:varchar,name:CategoryDescription;datatype:varchar" />
+</info>
